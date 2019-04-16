@@ -36,3 +36,9 @@ mp3 file used for producing music while in the game
 
 
 image of the car used in the game
+
+
+----> Pygame.ipynb
+
+
+Game code structure in jupyter notebook with enabling of option to switch from normal to drk mode
